@@ -1,6 +1,7 @@
 # Keep quiet app for Snips
 
 [![Build status](https://api.travis-ci.com/koenvervloesem/snips-app-keep-quiet.svg?branch=master)](https://travis-ci.com/koenvervloesem/snips-app-keep-quiet) [![Maintainability](https://api.codeclimate.com/v1/badges/3b028b9d7db9ffa2e760/maintainability)](https://codeclimate.com/github/koenvervloesem/snips-app-keep-quiet/maintainability) [![Code quality](https://api.codacy.com/project/badge/Grade/b244c94ff16447fc8ee3af07d03eb92e)](https://www.codacy.com/app/koenvervloesem/snips-app-keep-quiet) [![Python versions](https://img.shields.io/badge/python-3.5|3.6|3.7-blue.svg)](https://www.python.org) [![GitHub license](https://img.shields.io/github/license/koenvervloesem/snips-app-keep-quiet.svg)](https://github.com/koenvervloesem/snips-app-keep-quiet/blob/master/LICENSE) [![Languages](https://img.shields.io/badge/i18n-en|de|fr-brown.svg)](https://github.com/koenvervloesem/snips-app-keep-quiet/tree/master/translations) [![Snips App Store](https://img.shields.io/badge/snips-app-blue.svg)](https://console.snips.ai/store/en/skill_134O6Yb4K6b)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-keep-quiet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-keep-quiet?ref=badge_shield)
 
 With this [Snips](https://snips.ai/) app, you can ask your assistant to stop replying to your voice commands until you ask it to talk to you again. 
 
@@ -28,3 +29,7 @@ This app recognizes the following intents:
 ## Copyright
 
 This app is provided by [Koen Vervloesem](mailto:koen@vervloesem.eu) as open source software. See LICENSE for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-keep-quiet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnips-app-keep-quiet?ref=badge_large)
